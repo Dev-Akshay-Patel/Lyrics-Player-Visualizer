@@ -65,7 +65,6 @@ A lightweight, vibe-forward lyrics player with a smooth audio visualizer and imm
 * **Double‑click lyrics:** full‑screen on/off
 * **Seek bar / Scrub:** jump to any part of the track
 * **Background:** choose any supported media for instant ambiance
-* **Mobile:** tap to reveal controls; long‑press to select new media
 
 ---
 
